@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="ANJ - Frontend Developer Banner" width="100%" height="400px"/>
+  <img src="assets/banner.png" alt="ANJ - Frontend Developer Banner" width="100%" height="680px"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ananda Krishna J</h1>
