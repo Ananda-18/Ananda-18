@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="ANJ - Frontend Developer Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Ananda Krishna J</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
